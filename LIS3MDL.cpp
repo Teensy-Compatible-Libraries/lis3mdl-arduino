@@ -1,5 +1,5 @@
 #include <LIS3MDL.h>
-#include <Wire.h>
+#include <i2c_t3.h>
 #include <math.h>
 
 // Defines ////////////////////////////////////////////////////////////////
